@@ -34,6 +34,7 @@ export function InvoiceCalculator({ onLogout, onNavigateToDelivery }: InvoiceCal
     'AL***H G - 09361026849',
     'RE**L F. - 09943124231',
     'JE****Y F. - 09507063067',
+    'JE****Y F. - 09507063067',
     'RA**Y GA***A R. - 09928458329',
     'RU****L J** P. - 09537348890',
   ];
