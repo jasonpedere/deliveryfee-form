@@ -1,0 +1,18 @@
+{
+  "name": "JDS Delivery",
+  "short_name": "JDS Delivery",
+  "description": "Delivery management system for JDS Delivery",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#EA5A47",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
