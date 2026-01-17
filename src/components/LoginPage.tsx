@@ -22,6 +22,11 @@ export function LoginPage({ onLoginSuccess }: LoginPageProps) {
       password: 'matet123',
       role: 'Co-Admin'
     },
+    {
+      username: 'matetadmin',
+      password: 'emil123',
+      role: 'Co-Admin'
+    },
     // Add more users below:
     // {
     //   username: 'john',
