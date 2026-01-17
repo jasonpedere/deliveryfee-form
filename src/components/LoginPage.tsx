@@ -23,7 +23,7 @@ export function LoginPage({ onLoginSuccess }: LoginPageProps) {
       role: 'Co-Admin'
     },
     {
-      username: 'matetadmin',
+      username: 'emiladmin',
       password: 'emil123',
       role: 'Co-Admin'
     },
