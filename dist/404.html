@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JDS Delivery</title>
+    <script type="text/javascript">
+      // Redirect to index.html for SPA routing on GitHub Pages
+      var path = window.location.pathname;
+      var isRoot = path === '/' || path === '/deliveryfee-form/' || path === '/deliveryfee-form';
+      
+      // Only redirect 404s that aren't the root path
+      if (!isRoot && !path.endsWith('.html') && !path.includes('.')) {
+        // Redirect to the main index page, preserving the path
+        window.location.replace('/deliveryfee-form/');
+      }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
